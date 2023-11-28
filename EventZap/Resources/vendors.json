@@ -1,0 +1,22 @@
+[
+    {
+        "eventId": 1003,
+        "name": "Vendor 1",
+        "id": 101,
+        "description": "Saddle maker",
+        "productLine": "Tack",
+        "website": "http://saddles.com",
+        "logo": "saddle1",
+        "phone": "800-555-1212"
+    },
+    {
+        "eventId": 1003,
+        "name": "Vendor 2",
+        "id": 102,
+        "description": "Equestrian Clothing",
+        "productLine": "Apparell",
+        "website": "http://myhorseclothes.com",
+        "logo": "saddle2",
+        "phone": "888-867-5309"
+    }
+]

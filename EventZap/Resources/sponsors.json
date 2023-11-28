@@ -1,0 +1,22 @@
+[
+    {
+        "eventId": 1003,
+        "name": "GVHS",
+        "id": 101,
+        "description": "Gypsy Vanner Horse Society",
+        "type": "Point",
+        "website": "http://vanners.org",
+        "logo": "GVHS",
+        "phone": "888-867-5309"
+    },
+    {
+        "eventId": 1003,
+        "name": "Starfire Training Center",
+        "id": 102,
+        "description": "Startfire Gypsy Horses/Training Center",
+        "type": "Gold",
+        "website": "http://starfiregypsy.com",
+        "logo": "Starfire",
+        "phone": "888-867-5309"
+    }
+]

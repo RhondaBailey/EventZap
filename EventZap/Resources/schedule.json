@@ -1,0 +1,83 @@
+[
+    {
+        "eventId": 1001,
+        "name": "Weanlings and Yearlings all sexes",
+        "id": 101,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Mares and Fillies 2-4 years",
+        "id": 102,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Mares and Fillies 5 years and older",
+        "id": 103,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Stallions and Colts 2-4 years",
+        "id": 104,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Stallions and Colts 5 years and older",
+        "id": 105,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Geldings 2-4 years",
+        "id": 106,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Geldings 5 years and older",
+        "id": 107,
+        "description": "",
+        "type": "Class",
+        "time": "8AM",
+        "location": "Main Arena"
+    },
+    {
+        "eventId": 1001,
+        "name": "Musical Freestyle",
+        "id": 108,
+        "description": "Freestyle riding choreographed to music either in Western or English Tack. Riders choice.",
+        "type": "Class",
+        "time": "11AM",
+        "location": "Indoor Arena"
+    },
+    {
+        "eventId": 1002,
+        "name": "Test",
+        "id": 109,
+        "description": "Test test test",
+        "type": "Class",
+        "time": "11AM",
+        "location": "Indoor Arena"
+    }
+]
