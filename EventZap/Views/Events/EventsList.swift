@@ -20,7 +20,7 @@ struct EventsList: View {
     @State private var filter = FilterCategory.all
     @State private var filterState = "All"
     @State private var selectedEvent: Event?
-    //@State private var recordID = ""
+   //adding a comment to test checkin.
    
     
     enum FilterCategory: String, CaseIterable, Identifiable {
